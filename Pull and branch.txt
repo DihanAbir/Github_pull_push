@@ -1,0 +1,37 @@
+Pull and branch::
+
+
+
+By default repo is on a master branch .If u wants to make some another branch than u can make it following those steps : 
+1. Make it manually :
+	Goto your github repository  + click the master named button 
+
+Then add a new branch name on the search bar and it added as a new branch name;
+
+2. Make it using command line : 
+Goto to visualcode editor and enter the terminal box and write : 
+   
+Git checkout branch_name (if there is an existing another branch )
+Git checkout -b branch_name (create a new brach)
+
+
+    DONE!!!!, No, 
+
+You just create a new branch  and then push to on github .. but wait ?
+U create a branch locally and it is not existed on your github account.
+
+To add your crated branch on your github account typer it : 
+
+
+Git push --set-upstream origin master brach_name
+
+
+
+
+To marge those with master branch then marge it to go marge option to clicking “view all brach ”(under the all branch name )
+And then marge it  :)
+
+** to staring coding first do “git pul” to find a data and branch access
+** To show all branch name : git branch --a
+** To show current branch name :  git branch 
+
