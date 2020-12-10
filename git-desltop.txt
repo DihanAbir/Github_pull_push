@@ -1,0 +1,6 @@
+Git Desktop :
+
+
+
+For use git visually git make a GUI (graphical user interface ) which provide u a easy way to commit or use git .. 
+Not recommendable for a developer but can use as a noob.

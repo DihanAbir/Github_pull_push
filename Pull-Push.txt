@@ -1,0 +1,3 @@
+Git pull :
+To see previous changes : git diff -> this command show you the changes u have done , press enter to to next changes and next change , after a while it look ‘ énd ’
+Then to quit this statement press q (q for Quit ) and then come a new line for write a command .. 
